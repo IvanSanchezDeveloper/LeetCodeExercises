@@ -3,3 +3,4 @@
 
 ## Problem description
 
+<img width="878" height="1113" alt="imagen" src="https://github.com/user-attachments/assets/923ba334-dffb-46af-b180-e54179eb8b8c" />
