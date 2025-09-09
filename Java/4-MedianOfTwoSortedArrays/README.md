@@ -2,3 +2,5 @@
 [Median of Two Sorted Arrays - LeetCode Solution](https://leetcode.com/problems/median-of-two-sorted-arrays/solutions/7173687/4-median-of-two-sorted-arrays-by-iklfk8w-caji)
 
 ## Problem description
+
+<img width="611" height="767" alt="imagen" src="https://github.com/user-attachments/assets/2385de70-7d20-4cab-ac71-97b8dc6fde1b" />
